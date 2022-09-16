@@ -11,8 +11,9 @@
 *.a
 *.lib
 
-# Executables
+# Windows Binary's
 *.exe
+egloos-d*.pdb
 
 # DUB
 .dub

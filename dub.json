@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"zhanitest"
+	],
+	"targetType":"library",
+	"copyright": "Copyright © 2022, zhanitest",
+	"description": "Egloos API in D",
+	"license": "LGPL-v2.1",
+	"name": "egloos-d"
+}
